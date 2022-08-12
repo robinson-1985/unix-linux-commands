@@ -2,14 +2,14 @@
 
 # Se você usa MacOS
 O macOs roda sobre Darwin OS (kernel XNU), que é um sistema UNIX-like. Então, 
-todos os comandos abaixo também funcionam normalmente no MacOS. Recomendo
+todos os comandos abaixo também funcionam normalmente no MacOS. Recomendamos
 utilizar o gerenciador de pacotes homebrew caso necessário instalar algo.
 Se quiser o mesmo terminal que eu (ZSH com Oh My ZSH), utilize este vídeo para 
 configurar [https://youtu.be/bs1-Wxb_KIc](https://youtu.be/bs1-Wxb_KIc)
 
 # Se você usa Windows
 No Windows é possível utilizar o wsl2 e instalar uma versão do linux para 
-acompanhar. Eu fiz alguns vídeos para você usar o Linux no Windows. 
+acompanhar. Tem alguns vídeos para você usar o Linux no Windows. 
 Primeiro, siga este vídeo para ativar o WSL2 [https://youtu.be/05YN8F8ajBc](https://youtu.be/05YN8F8ajBc); depois, configure seu terminal com ZSH com este outro vídeo [https://youtu.be/y-w-gamp4U0](https://youtu.be/y-w-gamp4U0).  
 
 # GUI vs CLI  
